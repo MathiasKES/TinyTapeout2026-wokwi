@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses input 1 and 2 to display a 2-digit number on a 7-segment display. This works by using 'and' and 'or' gates for switching between digits.
 
 ## How to test
 
-Explain how to use your project
+Toggle either input 1 or 2 or both.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment display
